@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: bisque;
+}
+.login{
+    justify-content: center;
+    background-color: chocolate;
+    border-radius: 10px;
+
+}
+.txt-area{
+    justify-content: center;
+    align-items: center;
+}
+.error {
+    color: red;
+    font-size: 0.9em;
+}
+.hidden {
+    display: none;
+}
